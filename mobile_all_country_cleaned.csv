@@ -1,0 +1,47 @@
+rank,Country,Category,Data Type,Unit,2017,2018,2019,2020,2021,sum
+0,China,Mobile Phones,Retail Volume,000 units,442749.4,395635.1,370774.2,326135.5,341237.2,1876531.4
+1,India,Mobile Phones,Retail Volume,000 units,271104.3,295908.7,287252.4,256154.2,248789.1,1359208.7000000002
+2,USA,Mobile Phones,Retail Volume,000 units,160484.2,156753.0,151208.3,139745.7,145394.5,753585.7
+3,Mexico,Mobile Phones,Retail Volume,000 units,45667.7,46327.2,48641.9,40793.3,42761.5,224191.59999999998
+4,Brazil,Mobile Phones,Retail Volume,000 units,46846.2,43817.3,45263.5,40704.5,42567.1,219198.6
+5,Russia,Mobile Phones,Retail Volume,000 units,38403.4,39524.0,38954.6,38312.1,36798.6,191992.7
+6,Indonesia,Mobile Phones,Retail Volume,000 units,35352.1,36825.9,38079.8,37410.3,38807.0,186475.1
+7,Japan,Mobile Phones,Retail Volume,000 units,33813.1,28776.6,27009.7,27982.0,29157.3,146738.69999999998
+8,United Kingdom,Mobile Phones,Retail Volume,000 units,28732.3,28813.0,27937.4,26178.9,26461.7,138123.30000000002
+9,Germany,Mobile Phones,Retail Volume,000 units,24686.9,24549.0,23810.7,23919.1,23704.4,120670.1
+10,Italy,Mobile Phones,Retail Volume,000 units,24814.4,23479.9,22630.1,21693.5,21586.7,114204.59999999999
+11,Vietnam,Mobile Phones,Retail Volume,000 units,21176.5,21132.8,20754.5,21243.8,21457.4,105765.0
+12,France,Mobile Phones,Retail Volume,000 units,22742.4,22008.0,20208.2,18303.4,18915.9,102177.9
+13,Saudi Arabia,Mobile Phones,Retail Volume,000 units,19990.9,20242.8,20289.9,19145.8,19618.8,99288.2
+14,Thailand,Mobile Phones,Retail Volume,000 units,19735.8,19071.1,19110.5,18654.4,19870.8,96442.59999999999
+15,Philippines,Mobile Phones,Retail Volume,000 units,20130.1,18089.2,18106.3,18838.4,18678.4,93842.4
+16,Nigeria,Mobile Phones,Retail Volume,000 units,17391.3,18556.2,18069.3,17209.5,16701.7,87928.0
+17,South Korea,Mobile Phones,Retail Volume,000 units,18231.5,17377.1,16950.9,16046.0,17569.6,86175.1
+18,South Africa,Mobile Phones,Retail Volume,000 units,16125.7,16959.5,17844.8,16074.5,17068.6,84073.1
+19,Canada,Mobile Phones,Retail Volume,000 units,13661.5,13673.6,13408.1,11533.3,11687.8,63964.3
+20,Poland,Mobile Phones,Retail Volume,000 units,11037.4,11788.2,12046.1,11612.4,11467.0,57951.1
+21,Spain,Mobile Phones,Retail Volume,000 units,12512.8,11974.2,11550.7,11083.4,10719.3,57840.399999999994
+22,Turkey,Mobile Phones,Retail Volume,000 units,12097.8,10697.1,10746.9,10614.0,11126.2,55282.0
+23,Colombia,Mobile Phones,Retail Volume,000 units,10994.0,11706.1,11821.5,10902.8,9615.5,55039.899999999994
+24,Australia,Mobile Phones,Retail Volume,000 units,9483.2,9114.4,9190.9,9277.4,9442.9,46508.8
+25,Malaysia,Mobile Phones,Retail Volume,000 units,9343.9,9328.7,9272.5,9205.7,9308.4,46459.200000000004
+26,Argentina,Mobile Phones,Retail Volume,000 units,10835.8,8836.6,7026.7,6540.4,8009.0,41248.5
+27,Chile,Mobile Phones,Retail Volume,000 units,8324.7,8159.7,6799.1,7665.4,7892.8,38841.700000000004
+28,Ukraine,Mobile Phones,Retail Volume,000 units,5680.5,6228.1,6474.3,7439.1,8229.7,34051.7
+29,Egypt,Mobile Phones,Retail Volume,000 units,6049.1,6163.2,6644.8,7051.7,7688.2,33597.0
+30,Taiwan,Mobile Phones,Retail Volume,000 units,7619.9,7236.3,6825.6,6293.9,5505.3,33481.00000000001
+31,United Arab Emirates,Mobile Phones,Retail Volume,000 units,5005.6,5030.5,5486.4,5821.7,6206.2,27550.4
+32,Netherlands,Mobile Phones,Retail Volume,000 units,5773.0,5448.7,5181.4,4868.7,5291.0,26562.8
+33,"Hong Kong, China",Mobile Phones,Retail Volume,000 units,6397.0,5994.4,4559.5,4107.8,4302.1,25360.800000000003
+34,Romania,Mobile Phones,Retail Volume,000 units,4443.2,4538.2,4540.0,4531.2,4594.6,22647.199999999997
+35,Israel,Mobile Phones,Retail Volume,000 units,3546.6,3645.6,3755.8,3653.2,3821.6,18422.8
+36,Sweden,Mobile Phones,Retail Volume,000 units,3758.0,3745.0,3480.0,3317.0,3265.0,17565.0
+37,Morocco,Mobile Phones,Retail Volume,000 units,3184.1,3466.5,3543.1,3469.9,3575.0,17238.6
+38,Czech Republic,Mobile Phones,Retail Volume,000 units,3261.4,3225.0,3194.1,3123.1,3128.5,15932.1
+39,Portugal,Mobile Phones,Retail Volume,000 units,3438.8,3338.3,3132.2,2883.0,2921.2,15713.5
+40,Singapore,Mobile Phones,Retail Volume,000 units,2797.0,2819.8,2883.6,2792.7,2902.3,14195.399999999998
+41,Hungary,Mobile Phones,Retail Volume,000 units,2744.5,2784.9,2774.8,2759.9,2811.3,13875.400000000001
+42,Austria,Mobile Phones,Retail Volume,000 units,2800.4,2675.0,2599.3,2621.9,2613.3,13309.900000000001
+43,Greece,Mobile Phones,Retail Volume,000 units,2671.3,2600.0,2436.6,2158.2,2295.6,12161.699999999999
+44,Denmark,Mobile Phones,Retail Volume,000 units,2138.4,2137.9,2045.0,2005.0,1990.0,10316.3
+45,Norway,Mobile Phones,Retail Volume,000 units,1900.0,1800.0,1749.0,1631.0,1625.0,8705.0
